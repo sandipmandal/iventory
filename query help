@@ -1,0 +1,17 @@
+SELECT from_unixtime(1535777081) 
+
+SELECT *  FROM `whi_patient_doctorgroup_case` WHERE `CID` LIKE 'REGISTRATION' AND `HID` LIKE 'HO10574' AND `TIMESTAMP` > '1420070400'
+
+select UNIX_TIMESTAMP('2015-01-01')
+
+
+
+74- ocl complete
+73 amader complete
+72 shramajibi 
+
+SELECT *  FROM `whi_patient_doctorgroup_case` WHERE `CID` LIKE 'REGISTRATION' AND `HID` LIKE 'HO10572' AND `TIMESTAMP` BETWEEN '1104624000' AND '1136073600'
+
+http://bardhaman.nic.in/employment/recru_atma_12_210217.pdf
+
+UPDATE `whi_single_login` set `password` = 'b56e0b4ea4962283bee762525c2d490f' WHERE `usermail` = 'chwtrisabina'
